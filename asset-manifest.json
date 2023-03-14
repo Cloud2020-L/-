@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0786930f.css",
+    "main.js": "/static/js/main.c02ab8a3.js",
+    "static/media/touxiang3.jpg": "/static/media/touxiang3.d77afeed3565bbe2d492.jpg",
+    "index.html": "/index.html",
+    "main.0786930f.css.map": "/static/css/main.0786930f.css.map",
+    "main.c02ab8a3.js.map": "/static/js/main.c02ab8a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0786930f.css",
+    "static/js/main.c02ab8a3.js"
+  ]
+}
